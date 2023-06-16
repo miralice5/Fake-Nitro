@@ -14,7 +14,7 @@ A Code written in HTML.
 The [index.html](https://replit.com/@FelosiDev/Fake-Nitro#index.html) is the main file.
 
 
-🔰 **I'm not responsible for what you do with the bot or if your account is banned from Discord**
+🔰 **I'm not responsible for what you do with the script or if your account is banned from Discord**
 
 
 </br>
