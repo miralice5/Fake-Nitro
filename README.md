@@ -3,7 +3,7 @@ Make a Fake Nitro Screenshot for fake nitro server!
 
 Replit: https://replit.com/@FelosiDev/Fake-Nitro?v=1
 
-⚠️ For educational purposes only.⚠️
+⚠️ For educational purposes only.
 
 
 ----
