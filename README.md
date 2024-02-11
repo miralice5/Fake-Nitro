@@ -22,5 +22,5 @@ A Code written in HTML.
 
 </br>
 
-> ⭐ Feel free to leave a ❤️ if this helped you! | Fake Nitro © 2023 by Felosi.
+> ⭐ Feel free to leave a ❤️ if this helped you! | Fake Nitro © 2023 by Unknown.
 
